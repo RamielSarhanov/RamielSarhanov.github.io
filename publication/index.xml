@@ -1,72 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <title>Публикации | Мой сайт</title>
+    <link>https://ramielsarhanov.github.io/publication/</link>
+      <atom:link href="https://ramielsarhanov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
-      <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <url>https://ramielsarhanov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://ramielsarhanov.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Языки разметки и Markdown</title>
+      <link>https://ramielsarhanov.github.io/publication/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramielsarhanov.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-языки-разметки-и-markdown&#34;&gt;💻 Языки разметки и Markdown&lt;/h1&gt;
+&lt;p&gt;Языки разметки играют важную роль в разработке, документации и техническом письме. Они позволяют легко и удобно структурировать текст, добавлять ссылки, изображения и таблицы.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-языки-разметки&#34;&gt;🔹 Что такое языки разметки?&lt;/h2&gt;
+&lt;p&gt;Языки разметки — это наборы синтаксических правил, которые позволяют организовать текст в нужном формате. Они активно используются в веб-разработке, документации, а также в научной и технической сфере.&lt;/p&gt;
+&lt;p&gt;Наиболее популярные языки разметки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — для создания и оформления веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — для быстрого и простого оформления текста.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XML&lt;/strong&gt; — для хранения и обмена структурированными данными.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-что-такое-markdown&#34;&gt;✨ Что такое Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — это легкий язык разметки, который предназначен для быстрого и удобного форматирования текста. Он широко используется в IT-среде для написания документации, статей, а также для создания заметок.&lt;/p&gt;
+&lt;h3 id=&#34;-преимущества-markdown&#34;&gt;✅ Преимущества Markdown&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Простой и понятный синтаксис, не требующий много времени на освоение.&lt;/li&gt;
+&lt;li&gt;Легко читаем в обычном текстовом редакторе, что удобно для документации и заметок.&lt;/li&gt;
+&lt;li&gt;Отличная поддержка на многих платформах, таких как GitHub, Notion, Jupyter Notebook.&lt;/li&gt;
+&lt;li&gt;Позволяет быстро создавать списки, заголовки, вставлять ссылки и изображения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-где-используется-markdown&#34;&gt;📌 Где используется Markdown?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Оформление технической документации.&lt;/li&gt;
+&lt;li&gt;📚 Ведение научных заметок и написание статей.&lt;/li&gt;
+&lt;li&gt;💬 Создание сообщений и постов в IT-сообществах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown — это идеальный инструмент для разработчиков и тех, кто работает с текстом и документацией! 🚀&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Непрерывная интеграция и развертывание</title>
+      <link>https://ramielsarhanov.github.io/publication/01/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramielsarhanov.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;непрерывная-интеграция-и-развертывание-зачем-это-нужно&#34;&gt;Непрерывная интеграция и развертывание: зачем это нужно?&lt;/h2&gt;
+&lt;h3 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h3&gt;
+&lt;p&gt;CI/CD (Continuous Integration / Continuous Deployment) – это практика разработки, включающая автоматическую интеграцию кода, тестирование и развертывание. Она состоит из двух частей:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CI (Continuous Integration, непрерывная интеграция)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Код объединяется в общий репозиторий несколько раз в день.&lt;/li&gt;
+&lt;li&gt;Автоматические тесты проверяют работоспособность.&lt;/li&gt;
+&lt;li&gt;Если тесты пройдены, код отправляется в основную ветку.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CD (Continuous Deployment, непрерывное развертывание)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;После успешного CI код автоматически разворачивается на серверах.&lt;/li&gt;
+&lt;li&gt;Это позволяет быстро выкатывать новые версии без ручного вмешательства.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;почему-это-важно&#34;&gt;Почему это важно?&lt;/h3&gt;
+&lt;p&gt;✅ &lt;strong&gt;Быстрая доставка фич&lt;/strong&gt; – меньше времени между разработкой и продакшеном.&lt;br&gt;
+✅ &lt;strong&gt;Меньше багов&lt;/strong&gt; – автоматическое тестирование выявляет ошибки заранее.&lt;br&gt;
+✅ &lt;strong&gt;Автоматизация&lt;/strong&gt; – снижает вероятность человеческих ошибок.&lt;br&gt;
+✅ &lt;strong&gt;Гибкость&lt;/strong&gt; – можно быстро исправлять проблемы и добавлять новые функции.&lt;/p&gt;
+&lt;h3 id=&#34;как-работает-cicd&#34;&gt;Как работает CI/CD?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработчик коммитит изменения в репозиторий.&lt;/li&gt;
+&lt;li&gt;CI-система автоматически запускает тесты.&lt;/li&gt;
+&lt;li&gt;Если тесты пройдены, код добавляется в основную ветку.&lt;/li&gt;
+&lt;li&gt;CD-система автоматически разворачивает приложение.&lt;/li&gt;
+&lt;li&gt;Мониторинг помогает отслеживать ошибки.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;итог&#34;&gt;Итог&lt;/h3&gt;
+&lt;p&gt;CI/CD – это мощный инструмент, который делает разработку более быстрой и надежной. Внедрение CI/CD требует настройки, но в долгосрочной перспективе это значительно ускоряет релизы и снижает риски.&lt;/p&gt;
+&lt;p&gt;Как ты относишься к автоматизации в разработке? Делись мыслями в комментариях!&lt;/p&gt;
 </description>
     </item>
     
