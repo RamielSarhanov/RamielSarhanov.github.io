@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://ramielsarhanov.github.io/tags/academic/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://ramielsarhanov.github.io/post/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://ramielsarhanov.github.io/tags/hugo-blox/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +73,7 @@
                 />
   </url><url>
     <loc>https://ramielsarhanov.github.io/tags/markdown/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -87,7 +87,7 @@
                 />
   </url><url>
     <loc>https://ramielsarhanov.github.io/tags/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -100,16 +100,12 @@
                 href="https://ramielsarhanov.github.io/tags/"
                 />
   </url><url>
-    <loc>https://ramielsarhanov.github.io/publication/03/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/post/03/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <loc>https://ramielsarhanov.github.io/post/04/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ramielsarhanov.github.io/publication/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -121,6 +117,64 @@
                 hreflang="ru-ru"
                 href="https://ramielsarhanov.github.io/publication/"
                 />
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/publication/04/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/tags/hugo/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ramielsarhanov.github.io/en/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://ramielsarhanov.github.io/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/project/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ramielsarhanov.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://ramielsarhanov.github.io/project/"
+                />
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/tags/wowchemy/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ramielsarhanov.github.io/en/tags/wowchemy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://ramielsarhanov.github.io/tags/wowchemy/"
+                />
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/project/hugo/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/publication/03/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ramielsarhanov.github.io/post/03/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ramielsarhanov.github.io/post/02/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
@@ -170,90 +224,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://ramielsarhanov.github.io/projects/"
-                />
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/tags/hugo/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ramielsarhanov.github.io/en/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://ramielsarhanov.github.io/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/project/pandas/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ramielsarhanov.github.io/en/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://ramielsarhanov.github.io/project/pandas/"
-                />
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/project/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ramielsarhanov.github.io/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://ramielsarhanov.github.io/project/"
-                />
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ramielsarhanov.github.io/en/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://ramielsarhanov.github.io/project/pytorch/"
-                />
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ramielsarhanov.github.io/en/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://ramielsarhanov.github.io/project/scikit/"
-                />
-  </url><url>
-    <loc>https://ramielsarhanov.github.io/tags/wowchemy/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ramielsarhanov.github.io/en/tags/wowchemy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://ramielsarhanov.github.io/tags/wowchemy/"
                 />
   </url><url>
     <loc>https://ramielsarhanov.github.io/tags/javascript/</loc>
